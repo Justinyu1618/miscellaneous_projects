@@ -1,0 +1,28 @@
+Chris Callahan,USA,Spain,France,Australia,United Kingdom,Canada,Germany,Switzerland,Norway,Denmark
+Anthony Xu,Russian Federation,Democratic People’s Republic of Korea,Cuba,China,Vietnam,US and A,Khazakstan,Denmark,Finland,Sweden
+Dhwani Sreenivas,Germany,Japan,India,United Kingdom,France,China,Democratic Republic of Korea,Spain,Venezuela,Indonesia
+Alexander Zhang,DPRK,Saudia Arabia,Somalia,China,Pakistan,Russia,Qatar,UAE,Syria,USA
+Shakir Sahibul,Colombia,Canada,Egypt,Ethiopia,South Africa,Japan,South Korea,Belgium,Germany,Poland
+Tommy Bellaire,USA,Spain,Saudi Arabia,China,Japan,Nigeria,Australia,Mexico,UK,France
+Luca Tedesco,Republic of Ireland,Canada,Germany,Netherlands,Australia,UAE,Bahrain,Australia,DPRK,Israel
+John Bellaire,France,Finland,India,Morocco,Poland,Japan,Ukraine,Eritrea,Uganda,Iran
+North Korea,Syria,Egypt,Albania,Germany ,Russia,Pakistan,Vietnam,India,Iran ,Israel
+Shreya Nair,DPRK,USA,Portugal,Indonesia,China,France,Colombia,South Africa,Japan,Sudan
+Nina Zhang ,Germany ,Norway ,United Kingdom ,United States ,Austria ,Italy ,France ,South Korea ,Denmark ,Argentina 
+Alex Lee,Republic of Korea,Sweden,Japan,Ukraine,Democratic People's Republic of Korea,Syria,Vietnam,Lithuania,Indonesia,Malaysia
+Rhea Desai,South Korea,Japan,India,France,Thailand,Great Britian,Luxembourg,Indonesia,China,North Korea
+Boyang Wang,Germany,United Kingdom ,Brazil,Denmark,Netherlands,Jordan,Oman,Qatar,Russia,Singapore
+Danny Russell,Syria,Germany,North Korea,Egypt,South Sudan,TOGO,Bhutan,Austria,Lithuania,"The Vatican (Just kidding, they aren't in the UN) Monaco (if it even gets down this far)"
+Ricky Osgood ,Iran,Turkey ,Saudi Arabia,South Korea ,Pakistan ,Egypt ,Japan ,Denmark ,Argentina ,Sweden 
+Kanella Boretos,Greece,United Kingdom,France,Germany,Brazil,Denmark,Ethiopia,Ireland,Libya,Mexico
+Elina Chen,China,United States,Japan,Russia,Australia,Canada,Italy,Switzerland,France,India
+Sarah Campbell ,India ,Brazil ,Turkey,Germany ,Somalia,Kuwait ,Iceland ,Egypt ,Sri Lanka ,Columbia 
+Philip Vukovic,Brazil,Spain,Australia,Ukraine,Nigeria,Japan,Kenya,Pakistan,Egypt,Norway
+Maxwell McDonnell,Serbia,North Korea,Iran,United States,Netherlands,Ireland,United kingdom,French,China,Japan
+Nisha Goel,Italy,France,United Kingdom,India,America,Brazil,Canada,South Africa,Saudi Arabia,Cambodia
+James Viglas,Italy,Greece,Japan,France,Guatemala,Cuba,Equidor ,Malaysia ,Australia ,Canada
+Armenia,Azerbaijan,Turkmenistan,Uzebekistan,Kazakhstan,Kyrgyzstan,Tajikistan,Pakistan,Afghanistan,Nepal,Bhutan
+Jack McDonough,France,Germany,Brazil,Mexico,USA,Russia,China,Venezuela ,Greece,Ethiopia
+Collin Murphy,Ireland,Denmark,Poland,Austria,Azerbaijan,Indonesia,Japan,Germany,Belgium,Canada
+Heemakshi Deka ,France ,India ,Venezuela ,Italy ,Japan ,South Africa ,Pakistan ,Thailand ,Mexico ,United Kingdom 
+Vivian Ding,Thailand,Egypt,Austria,Japan,Denmark,Canada,Iran,Libya,Malaysia,Slovakia

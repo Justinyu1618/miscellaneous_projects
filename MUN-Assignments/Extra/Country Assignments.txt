@@ -1,0 +1,6 @@
+Chrstopher.A.P:['Russia', 'Bulgaria', 'Japan', 'Egypt', 'Bulgaria', 'Russia', 'Italy', 'Egypt', 'Egypt', 'Libya']
+Iman Moreira:['Saudi Arabia', 'Turkey', 'Spain', 'UK', 'Canada', 'Japan', 'Brazil', 'Sudan', 'USA', 'Egypt']
+Joanna:['Japan', 'India', 'Russia', 'Albania', 'Egypt', 'Vietnam', 'Israel', 'Pakistan', 'North Korea', 'Germany']
+Garen Meguerditchian:['Armenia', 'China', 'Hungary', 'Saudi Arabia', 'Russia', 'Nigeria', 'Vatican City', 'Qatar', 'United States', 'North Korea']
+Victoria Correa:['Argentina', 'Syria', 'Turkey', 'Germany', 'Saudi Arabia', 'Colombia', 'Iran', 'Spain', 'France', 'United Arab Emirates']
+Camille Xiang:['France', 'Australia', 'China', 'Japan', 'United States', 'Canada', 'Ethiopia', 'United Kingdom', 'Sweden', 'Spain']
